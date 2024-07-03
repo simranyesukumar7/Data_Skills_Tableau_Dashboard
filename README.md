@@ -26,5 +26,7 @@ Purpose: Compares the ranking of data skills over different years to show how th
 
 
 **4. Top Skills in Each Country Based on Their Ranking**
+
+
 Purpose: Identifies and displays the top-ranked data skills in each country for given years.
 
