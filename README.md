@@ -2,9 +2,6 @@
 
 The Data Skills Analysis Dashboard offers insights into various data skills, including their distribution across countries and over years, ranking, and comparison. It helps individuals, educators, and employers to understand the evolving landscape of data skills globally.
 
-**Access the Dashboard**
-
-To access the dashboard, visit: Data Skills Analysis Dashboard
 
 **Dashboard Components**
 
